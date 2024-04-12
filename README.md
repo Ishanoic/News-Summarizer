@@ -26,6 +26,7 @@ To run the app locally, follow these steps:
 
 - Select a topic from the sidebar to fetch news articles.
 - ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/02e526d8-45bd-4cd3-ad47-e40521b0e8ea)
+  
 
 - View summary of various articles under that topic.
 - ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/3aa0bfcc-a52e-4531-b09a-457db175db4e)
@@ -33,9 +34,14 @@ To run the app locally, follow these steps:
   
 - Select the amount of time you want to spend on reading a summary.
 - ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/8e1083b7-ff1f-40d7-8406-257bc180d1ec)
+  
 
 - Enter the URL of a news article to generate a summary from the Pegasus Model
 - ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/78343a0b-2120-41ad-921b-1c4d986cd7c3)
+
+- Word Cloud for the article
+- ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/25518bff-a74f-46f8-bfcb-b39910ae8650)
+
 
 - Wiki info section
 - ![image](https://github.com/Ishanoic/News-Summarizer/assets/144539284/c067f6ad-890b-499d-b3e2-8286c7f7b820)
